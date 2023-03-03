@@ -1,6 +1,9 @@
 # Changelog
 
-## v0.0.1
+## v0.0.2
 
-### Added Vite
-  `npm create vite@latest`
+### Added Garlicss
+  `sass/index.scss`
+  `sass/lib.scss`
+  `.gitignore`
+  `package.json`
